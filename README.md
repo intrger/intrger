@@ -20,7 +20,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://metamask.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/metamask/metamask-icon.svg" alt="metamask" width="40" height="40"/> </a>
+  <a href="https://metamask.io/" target="_blank" rel="noreferrer"> <img src="/Users/macbook/Downloads/metamask.svg" alt="metamask" width="40" height="40"/> </a>
   <a href="https://hardhat.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hardhat/hardhat-icon.svg" alt="hardhat" width="40" height="40"/> </a>
   <a href="https://docs.ethers.io/v5/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethers/ethers-icon.svg" alt="ethers" width="40" height="40"/> </a>
   <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40"/> </a>
