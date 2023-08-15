@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Olexandr Voichak</h1>
 <h3 align="center">Blockchain/Web3 developer</h3>
 
-- 🚀 Full Stack Blockchain developer
-- 🌍 I'm based in Netherlands
-- ✉️ You can contact me at sanavojcak@gmail.com
-- 🤝 I'm open to collaborating on Ethereum blockchain related projects
+<h3- 🚀 Full Stack Blockchain developer</h3>
+<h3- 🌍 I'm based in Netherlands</h3>
+<h3- ✉️ You can contact me at sanavojcak@gmail.com</h3>
+<h3- 🤝 I'm open to collaborating on Ethereum blockchain related projects</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
