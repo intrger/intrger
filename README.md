@@ -1,31 +1,30 @@
-<h1 align="center">Hi 👋, I'm Olexandr Voichak</h1>
-<h3 align="center">Blockchain/Web3 developer</h3>
+# Профіль GitHub [Ваше ім'я]
 
-- 🚀 Full Stack Blockchain developer
-- 🌍 I'm based in Netherlands
-- ✉️ You can contact me at sanavojcak@gmail.com
-- 🤝 I'm open to collaborating on Ethereum blockchain related projects
+Привіт! Це мій профіль на GitHub, де я ділюся своїми проектами та інтересами.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/your_twitter_handle" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="40" height="40"/> </a>
-  <a href="https://discordapp.com/users/your_discord_user_id" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="discord" width="40" height="40"/> </a>
-  <a href="https://t.me/your_telegram_username" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" width="40" height="40"/> </a>
-</p>
+## Мови та Інструменти
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://metamask.io/" target="_blank" rel="noreferrer"> <img src="/Users/macbook/Downloads/metamask.svg" alt="metamask" width="40" height="40"/> </a>
-  <a href="https://hardhat.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hardhat/hardhat-icon.svg" alt="hardhat" width="40" height="40"/> </a>
-  <a href="https://docs.ethers.io/v5/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethers/ethers-icon.svg" alt="ethers" width="40" height="40"/> </a>
-  <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40"/> </a>
+Ось деякі з мов програмування та інструментів, які я використовую у своїх проектах:
 
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+- ![MetaMask](https://img.shields.io/badge/-MetaMask-E2761B?style=flat-square&logo=metamask&logoColor=white)
+- ![Ethers.js](https://img.shields.io/badge/-Ethers.js-3498DB?style=flat-square&logo=ethereum&logoColor=white)
+- ![Hardhat](https://img.shields.io/badge/-Hardhat-3E1F3D?style=flat-square&logo=hardhat&logoColor=white)
+- ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
-Thanks for stopping by! Let's build the future together 🚀
+Це лише декілька із інструментів, які я використовую в роботі над своїми проектами. Вони допомагають мені реалізовувати ідеї та створювати захоплюючі продукти.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+## Проекти
+
+Я також активно працюю над різноманітними проектами, пов'язаними з блокчейном, веб-розробкою та іншими цікавими технологіями. Буду радий поділитися деталями з вами!
+
+## Зв'язок
+
+Ви можете зв'язатися зі мною через мої соціальні мережі та електронну пошту. Не соромтеся написати, якщо у вас є питання, пропозиції чи просто бажання поговорити.
+
+## Git
+
+Давайте також з'єднаємось на [Git](https://github.com/Ваш_користувач)! Слідкуйте за моїми проектами та долучайтеся до спільноти розробників.
