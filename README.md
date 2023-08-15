@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Olexandr Voichak</h1>
 <h3 align="center">Blockchain/Web3 developer</h3>
 
-- 🚀 Full Stack Blockchain developer
-- 🌍 I'm based in Netherlands
-- ✉️ You can contact me at sanavojcak@gmail.com
-- 🤝 I'm open to collaborating on Ethereum blockchain related projects
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/https://twitter.com/OVoichak" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="40" height="40"/> </a>
-  <a href="https://discordapp.com/users/your_discord_user_id" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="discord" width="40" height="40"/> </a>
-  <a href="https://t.me/voichak_eth" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" width="40" height="40"/> </a>
+<p align="center">
+  <a href="https://twitter.com/https://twitter.com/OVoichak" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /> </a>
+  <a href="https://discordapp.com/users/your_discord_user_id" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /> </a>
+  <a href="https://t.me/voichak_eth" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /> </a>
 </p>
 
+- 🚀 Full Stack Blockchain developer
+- 🌍 I'm based in the Netherlands
+- ✉️ You can contact me at sanavojcak@gmail.com
+- 🤝 I'm open to collaborating on Ethereum blockchain related projects
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <div>
@@ -28,12 +26,12 @@
   <a href="#"><img height="60" src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" /></a>
 </div>
 
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
-
-
+<h3 align="left">🏆 My GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ваш_користувач&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ваш_користувач&theme=tokyonight" alt="Top Langs" />
+</p>
 
 Thanks for stopping by! Let's build the future together 🚀
+
 
