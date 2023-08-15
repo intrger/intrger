@@ -5,7 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Додайте посилання на ваші соціальні мережі, якщо потрібно -->
+  <a href="https://twitter.com/your_twitter_handle" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="40" height="40"/> </a>
+  <a href="https://discordapp.com/users/your_discord_user_id" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="discord" width="40" height="40"/> </a>
+  <a href="https://t.me/your_telegram_username" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,13 +17,12 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://metamask.io/" target="_blank" rel="noreferrer"> <img src="link-to-metamask-icon" alt="metamask" width="40" height="40"/> </a>
-  <a href="https://hardhat.io/" target="_blank" rel="noreferrer"> <img src="link-to-hardhat-icon" alt="hardhat" width="40" height="40"/> </a>
-  <a href="https://docs.ethers.io/v5/" target="_blank" rel="noreferrer"> <img src="link-to-ethers-icon" alt="ethers" width="40" height="40"/> </a>
-  <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="link-to-ethereum-icon" alt="ethereum" width="40" height="40"/> </a>
+  <a href="https://metamask.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/metamask/metamask-icon.svg" alt="metamask" width="40" height="40"/> </a>
+  <a href="https://hardhat.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hardhat/hardhat-icon.svg" alt="hardhat" width="40" height="40"/> </a>
+  <a href="https://docs.ethers.io/v5/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethers/ethers-icon.svg" alt="ethers" width="40" height="40"/> </a>
+  <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
-
 
 Thanks for stopping by! Let's build the future together 🚀
 
