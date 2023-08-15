@@ -29,7 +29,7 @@ Feel free to connect with me on LinkedIn or Twitter!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourusername" target="_blank"><img src="link-to-your-linkedin-icon" alt="LinkedIn" width="30" height="30"/></a>
-  <a href="https://twitter.com/yourusername" target="_blank"><img src="link-to-your-twitter-icon" alt="Twitter" width="30" height="30"/></a>
+  <a href="https://twitter.com/OVoichak" target="_blank"><img src="link-to-your-twitter-icon" alt="Twitter" width="30" height="30"/></a>
 </p>
 
 ---
