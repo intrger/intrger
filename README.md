@@ -1,18 +1,38 @@
-<h1 align="center">Hi 👋, I'm Olexandr Voichak</h1>
+<h1 align="center">Hi there, I'm Olexandr Voichak 👋</h1>
 <h3 align="center">Blockchain/Web3 developer</h3>
 
-- 📫 How to reach me **sanavojcak@gmail.com**
+📫 How to reach me: **sanavojcak@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+### 🚀 My Tech Stack
+
+- **JavaScript:** Building dynamic and interactive web applications is my passion. From front-end to back-end, I'm comfortable using JavaScript to create seamless user experiences.
+
+- **Python:** I enjoy working with Python for various tasks, from scripting to data analysis. It's a versatile language that I use to solve problems and automate processes.
+
+- **Solidity:** As a blockchain enthusiast, I've dived into smart contract development using Solidity. Crafting decentralized applications on the Ethereum blockchain is both challenging and rewarding.
+
+- **React:** Crafting modern, responsive, and efficient user interfaces is where React shines. I leverage React to build interactive front-end experiences that users love.
+
+---
+
+### 🌱 What I'm Currently Learning
+
+I'm always eager to expand my skillset. Currently, I'm diving deeper into decentralized finance (DeFi) and exploring the world of blockchain scalability solutions.
+
+---
+
+### 🔗 Connect with Me
+
+Feel free to connect with me on LinkedIn or Twitter!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank"><img src="link-to-your-linkedin-icon" alt="LinkedIn" width="30" height="30"/></a>
+  <a href="https://twitter.com/yourusername" target="_blank"><img src="link-to-your-twitter-icon" alt="Twitter" width="30" height="30"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+---
+
+Thanks for stopping by! Let's build the future together 🚀
+
