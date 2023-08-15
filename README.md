@@ -24,12 +24,7 @@
   <a href="https://hardhat.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hardhat/hardhat-icon.svg" alt="hardhat" width="40" height="40"/> </a>
   <a href="https://docs.ethers.io/v5/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethers/ethers-icon.svg" alt="ethers" width="40" height="40"/> </a>
   <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40"/> </a>
-  <!-- Додані іконки та посилання -->
-  <a href="https://docs.ethers.io/v5/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethers/ethers-icon.svg" alt="ethers" width="40" height="40"/> </a>
-  <a href="https://metamask.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/metamask/metamask-icon.svg" alt="metamask" width="40" height="40"/> </a>
-  <a href="https://hardhat.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hardhat/hardhat-icon.svg" alt="hardhat" width="40" height="40"/> </a>
-  <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40"/> </a>
-</p>
+
 
 
 Thanks for stopping by! Let's build the future together 🚀
