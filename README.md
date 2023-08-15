@@ -28,8 +28,8 @@
 
 <h3 align="left">🏆 My GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=intrgr&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intrgr&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=intrger&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intrger&theme=tokyonight" alt="Top Langs" />
 </p>
 
 Thanks for stopping by! Let's build the future together 🚀
