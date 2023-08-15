@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Olexandr Voichak</h1>
 <h3 align="center">Blockchain/Web3 developer</h3>
 
-- 📫 How to reach me **sanavojcak@gmail.com**
+- 🚀 Full Stack Blockchain developer
+- 🌍 I'm based in Netherlands
+- ✉️ You can contact me at sanavojcak@gmail.com
+- 🤝 I'm open to collaborating on Ethereum blockchain related projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,8 +24,14 @@
   <a href="https://hardhat.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hardhat/hardhat-icon.svg" alt="hardhat" width="40" height="40"/> </a>
   <a href="https://docs.ethers.io/v5/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethers/ethers-icon.svg" alt="ethers" width="40" height="40"/> </a>
   <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <!-- Додані іконки та посилання -->
+  <a href="https://docs.ethers.io/v5/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethers/ethers-icon.svg" alt="ethers" width="40" height="40"/> </a>
+  <a href="https://metamask.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/metamask/metamask-icon.svg" alt="metamask" width="40" height="40"/> </a>
+  <a href="https://hardhat.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hardhat/hardhat-icon.svg" alt="hardhat" width="40" height="40"/> </a>
+  <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40"/> </a>
 </p>
+
 
 Thanks for stopping by! Let's build the future together 🚀
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
