@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olexandr Voichak</h1>
 <h2 align="center">Blockchain/Web3 developer</h2>
 
-<h3 align="left">📪 Contact with me:</h3>
+<h3 align="center">📪 Contact with me:</h3>
 <p align="center">
   <a href="https://twitter.com/https://twitter.com/OVoichak" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" width="100" /> </a>
   <a href="https://discordapp.com/users/1127164938188755094" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" width="100" /> </a>
