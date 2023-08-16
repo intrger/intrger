@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olexandr Voichak</h1>
-<h3 align="center">Blockchain/Web3 developer</h3>
+<h2 align="center">Blockchain/Web3 developer</h2>
 
 <p align="center">
   <a href="https://twitter.com/https://twitter.com/OVoichak" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" width="100" /> </a>
