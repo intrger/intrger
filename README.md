@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, There</h1>
+<h1 align="center">Hi There, 👋 </h1>
 <h2 align="center">Blockchain/Web3 developer</h2>
 
 <h3 align="center">📪 Contact with me:</h3>
