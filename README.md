@@ -11,5 +11,5 @@
 - 🚀 Full Stack Blockchain developer
 - 🌍 I'm based in the Netherlands
 - ✉️ You can contact me at sanavojcak@gmail.com
-- 🤝 I'm open to collaborating on Ethereum blockchain related projects
+- 🤝 I'm open to collaborating on blockchain related projects
 
